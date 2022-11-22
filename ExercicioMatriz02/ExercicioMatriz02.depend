@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668959854 source:c:\users\pc\documents\devc\exerciciomatriz02\main.c
+	<stdio.h>
+	<stdlib.h>
+
